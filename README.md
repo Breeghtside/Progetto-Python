@@ -6,4 +6,5 @@ The following project collects all the data
 -  manipulation,
 -  visualization and
 -  analysis
+
 steps referred to Google Play Store dataset.
